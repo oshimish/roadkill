@@ -522,7 +522,6 @@
       <SubType>Designer</SubType>
     </Content>
     <Content Include="Assets\web.config" />
-    <Content Include="connectionStrings.config" />
     <Content Include="NLog.config" />
     <Content Include="package.json" />
     <None Include="packages.config" />
